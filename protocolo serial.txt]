@@ -1,0 +1,17 @@
+Enviar para Monitor
+- Emergencia
+- Tensao
+- Corrente
+- Potencia
+
+JSON
+
+
+{"Alunos":[
+     { "nome": "Edson Sales Arantes", "notas": [ 8, 9, 5 ]  },
+     { "nome": "Luiz Livelli ", "notas": [ 8, 10, 7 ] },
+     { "nome": "Caique Caicedo De Plata", "notas": [ 10, 10, 9 ] }
+]}
+
+{"tensao" : 220.4, "corrente":0.2,"potencia":2}
+{"emergencia" : true}
